@@ -23,7 +23,7 @@ NumPy
 
 📁 Project Setup (VS Code)
 1️⃣ Clone Repository
-git clone https://github.com/your-username/AI-Gesture-Mouse-Controller.git
+https://github.com/jeel333/AI-hand-Gesture-Mouse-Controller
 cd AI-Gesture-Mouse-Controller
 2️⃣ Open in VS Code
 Open VS Code
